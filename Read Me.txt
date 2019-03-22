@@ -1,0 +1,2 @@
+All outputs have been hardcoded to the console and the originally placed queen will display red on said console, however
+this has only been tested on eclipse and could prove different for other IDEs.
